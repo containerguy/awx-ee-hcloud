@@ -1,0 +1,6 @@
+hcloud
+pyvmomi
+pyvim
+pyOpenSSL
+requests
+hcloud
